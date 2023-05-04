@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+maffotchiochristia.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1683199363|bYbwDl3evHpu
+maffotchiochristia.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=84
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	01d72e6d16f4fefae1cf2fa329622a3800f7f80c2acf84e97cf385971e0a817bfec945e7151e6bfde23d8b5cbf9b4d9b203dde07f8
+maffotchiochristia.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+

@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 May 2023 04:23:01 at https://maffotchiochristia.wixsite.com/stg-sarl +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://maffotchiochristia.wixsite.com/stg-sarl -O1 "C:\Users\belmond\Desktop\stgsarlnew" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:24:13	Error: 	"Not Found" (404) at link https://maffotchiochristia.wixsite.com/decodeURIComponent(e (from https://maffotchiochristia.wixsite.com/stg-sarl)
+04:24:13	Error: 	"Not Found" (404) at link https://maffotchiochristia.wixsite.com/sitemap.xml (from https://maffotchiochristia.wixsite.com/stg-sarl)
+04:24:13	Error: 	"Not Found" (404) at link https://maffotchiochristia.wixsite.com/feed.xml (from https://maffotchiochristia.wixsite.com/stg-sarl)
+04:24:13	Error: 	"Not Found" (404) at link https://maffotchiochristia.wixsite.com/ (from https://maffotchiochristia.wixsite.com/stg-sarl)
+04:25:23	Error: 	"Not Found" (404) at link https://maffotchiochristia.wixsite.com/stg-sarl/decodeURIComponent(e (from https://maffotchiochristia.wixsite.com/stg-sarl/à-propos)
+04:25:23	Error: 	"Not Found" (404) at link https://maffotchiochristia.wixsite.com/stg-sarl/robots.txt (from https://maffotchiochristia.wixsite.com/stg-sarl/à-propos)
+04:25:23	Error: 	"Not Found" (404) at link https://maffotchiochristia.wixsite.com/stg-sarl/feed.xml (from https://maffotchiochristia.wixsite.com/stg-sarl/à-propos)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 46 links scanned, 38 files written (2478448 bytes overall) [764137 bytes received at 5381 bytes/sec], 2437134 bytes transferred using HTTP compression in 22 files, ratio 27%, 1.1 requests per connection
+(7 errors, 0 warnings, 0 messages)
